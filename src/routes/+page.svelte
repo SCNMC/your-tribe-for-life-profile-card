@@ -1,2 +1,28 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  let text = 'Homepage';
+</script>
+
+<main>
+  <div class="container">
+    <h1>{text}</h1>
+    <input bind:value={text}>
+  </div>
+</main>
+
+<style>
+  main {
+    font-family: sans-serif;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 20px;
+  }
+
+  .container > * {
+    width: 100%;
+    max-width: 700px;
+  }
+</style>
