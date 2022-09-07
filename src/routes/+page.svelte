@@ -1,14 +1,22 @@
 <script>
-  let text = 'Homepage';
+  import * as prismicH from '@prismicio/helpers';
+  export let data;
+
+  const {  document }  = data
 </script>
 
 <main>
+  <div class="header container" style="background-image: url('{document.data.image.url}')">	 
+    <h1>
+      {document.data.title}
+    </h1>
+  </div>
   <div class="container">
-    <h1>{text}</h1>
-    <input bind:value={text}>
+    <div class="text">
+      {@html prismicH.asHTML(document.data.content)}
+    </div>
   </div>
 </main>
-
 <style>
   main {
     font-family: sans-serif;
