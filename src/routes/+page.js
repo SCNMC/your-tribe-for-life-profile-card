@@ -1,7 +1,7 @@
 import createClient from '$lib/prismicio'
 
 export async function load({ fetch, request }) {
-	const UID = 'homepage';
+	const UID = 'pokemoncard';
 	const client = createClient({ fetch, request });
 	const document = await client.getByUID('page', UID);
 
