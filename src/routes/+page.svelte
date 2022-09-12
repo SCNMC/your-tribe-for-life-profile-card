@@ -177,7 +177,7 @@ padding-right: 1em;
     font-size: 7px;
     font-weight: bold;
     font-style: italic;
-    -o-border-image: linear-gradient(to bottom right, #998100 0%, gold 100%);
+    -webkit-border-image: linear-gradient(to bottom right, #998100 0%, gold 100%);
     border-image: linear-gradient(to bottom right, #998100 0%, gold 100%);
     border-image-slice: 1;
  }
