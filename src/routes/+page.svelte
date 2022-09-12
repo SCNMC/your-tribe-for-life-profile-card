@@ -118,6 +118,7 @@ background: linear-gradient(to right, #d1b000 0%, #d1b000 1%, #ad9200 1%, gold 4
   height: 19em;
   border: 10px solid transparent;
   -webkit-border-image: linear-gradient(to bottom right, #9e8500 0%, #ebc600 25%, #9e8500 50%, #ebc600 75%, #9e8500 100%);
+  -moz-border-image: linear-gradient(to bottom right, #9e8500 0%, #ebc600 25%, #9e8500 50%, #ebc600 75%, #9e8500 100%);
    border-image: linear-gradient(to bottom right, #9e8500 0%, #ebc600 25%, #9e8500 50%, #ebc600 75%, #9e8500 100%);
    border-image-slice: 1;
    box-shadow: 3px 3px 25px 0 black;
