@@ -80,7 +80,7 @@ flex-direction: row;
  }
 
  .hp{
-  padding-top: .1em;
+  padding-top: .2em;
   padding-left: 5.4em;
   font-size: 24px;
   color: red;
@@ -91,7 +91,7 @@ flex-direction: row;
  }
 
  header > img{
-  margin-top: 1.3em;
+  margin-top: 1.7em;
  }
 
  .hero{
