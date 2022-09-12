@@ -83,7 +83,7 @@ flex-direction: row;
   padding-top: .2em;
   padding-left: 5.4em;
   font-size: 24px;
-  color: red;
+  color: #e00000;
  }
 
  img{
