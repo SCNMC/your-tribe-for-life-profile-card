@@ -14,7 +14,7 @@
           <p class="text"> {@html prismicH.asHTML(document.data.basic_pokemon)}</p>
           <h1> {document.data.title}</h1>
           <p class="hp"> {@html prismicH.asText(document.data.hp)}</p>
-          <img src={document.data.watericon.url} alt="profile">
+          <img src={document.data.watericon.url} alt="water-icon">
         </header>
 
         <section class="hero">
@@ -23,7 +23,7 @@
         </section>
 
         <section class="main-info">
-          <img src={document.data.watericon.url} alt="watericon">
+          <img src={document.data.watericon.url} alt="water-icon">
           <p class="bio-info"> {@html prismicH.asText(document.data.bioinfo)}</p>
           <p class="damage"> {@html prismicH.asText(document.data.damage)}</p>
         </section>
@@ -32,7 +32,7 @@
         <p>weakness</p>
         <p>resistance</p>
         <p>retreat cost</p>
-        <img src={document.data.watericon.url} alt="profile">
+        <img src={document.data.fire.url} alt="fire-icon">
       </section>
 
       <footer>
