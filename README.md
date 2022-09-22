@@ -1,6 +1,6 @@
 # ⚡ Pokemon profile card ⚡
 
-<img width="5oo" alt="Schermafbeelding 2022-09-22 om 23 15 09" src="https://user-images.githubusercontent.com/90189750/191852334-048d075b-3eb7-4508-a867-e2d72529c744.png">
+<img width="500" alt="Schermafbeelding 2022-09-22 om 23 15 09" src="https://user-images.githubusercontent.com/90189750/191852334-048d075b-3eb7-4508-a867-e2d72529c744.png">
 
 
 
