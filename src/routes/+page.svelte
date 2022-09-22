@@ -18,7 +18,7 @@
         </header>
 
         <section class="hero">
-          <img src={document.data.image.url} alt="my profile photo">
+          <img src="/assets/images/cat.jpeg" alt="killua">
           <p class="short-info"> {@html prismicH.asText(document.data.shortinfo)}</p>
         </section>
 
