@@ -1,6 +1,9 @@
-# create-svelte
+# <img width="30" alt="Schermafbeelding 2022-09-22 om 23 15 09" src="https://user-images.githubusercontent.com/90189750/191853206-2987bcd8-6d4a-4eda-bb3b-d85138caa40e.png">  Pokemon profile card <img width="30" alt="Schermafbeelding 2022-09-22 om 23 15 09" src="https://user-images.githubusercontent.com/90189750/191853206-2987bcd8-6d4a-4eda-bb3b-d85138caa40e.png">
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+
+<img width="500" alt="Schermafbeelding 2022-09-22 om 23 15 09" src="https://user-images.githubusercontent.com/90189750/191852334-048d075b-3eb7-4508-a867-e2d72529c744.png">
+
+
 
 ## Creating a project
 
