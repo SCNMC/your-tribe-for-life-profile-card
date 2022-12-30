@@ -18,7 +18,7 @@
         </header>
 
         <section class="hero">
-          <img src="/assets/images/cat.jpeg" alt="killua">
+          <img src="/assets/images/SC.jpg" alt="Shauri">
           <p class="short-info"> {@html prismicH.asText(document.data.shortinfo)}</p>
         </section>
 
